@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".NusantaraCookingActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusableInTouchMode="true"
+        android:padding="25dp">
+
+        <ImageView
+            android:id="@+id/jajananFoto"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/getuk"
+            android:adjustViewBounds="true"
+            android:layout_centerHorizontal="true"/>
+
+        <TextView
+            android:id="@+id/jajananDeskripsi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Deskripsi"
+            android:layout_below="@id/jajananFoto"
+            android:textSize="15dp"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:id="@+id/bahan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bahan"
+            android:textStyle="bold"
+            android:layout_below="@+id/jajananDeskripsi"
+            android:textSize="18dp"
+            android:layout_marginTop="15dp"/>
+
+        <TextView
+            android:id="@+id/isiBahan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="bahan apa yaa"
+            android:layout_below="@id/bahan"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:id="@+id/cara_masak"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cara Membuat"
+            android:textStyle="bold"
+            android:layout_below="@+id/isiBahan"
+            android:textSize="18dp"
+            android:layout_marginTop="15dp"/>
+
+        <TextView
+            android:id="@+id/isiCaraMasak"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="caranya apa ya"
+            android:layout_below="@id/cara_masak"
+            android:textSize="15dp"/>
+
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,652 @@
+<resources>
+    <string name="app_name">i-Chef</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="cucurr">
+        125 gr tepung beras\n
+        100 gr terigu protein sedang (segitiga)\n
+        130 gr gula merah\n
+        50 gr gula pasir\n
+        200 ml air\n
+        1 lembar daun pandan\n
+        1/4 sdt garam\n
+    </string>
+    <string name="dodol">
+        7 butir gula merah (haluskan)\n
+        2 bngks santan kara\n
+        1 bungkus tepung ketan\n
+        1 sdm garam\n
+        4 sdm gula pasir\n
+        1 sdt vanilli bubuk\n
+        Secukupnya wijen
+    </string>
+    <string name="langkah_cucur">
+        1.	Rebus gula merah, gula pasir, air, daun pandan dan garam hingga larut lalu saring. Biarkan sampe hangat.\n
+        2.	Campurkan tepung beras dan tepung terigu dalam wadah. Masukkan larutan gula yg telah disaring. Aduk hingga rata menggunakan whisk lalu mikser dengan speed rendah selama 5 menit.\n
+        3.	Istirahatkan adonan selama 15 menit. Aduk kembali menggunakan whisk. Kalau adonan terlalu kental, bisa DITAMBAH AIR sedikit demi sedikit agar konsistensi adonan pas (pas dalam artian tidak encer dan tidak kental). Karna kelembaban masing masing tepung tidak sama.\n
+        4.	Panaskan secukupnya minyak goreng dalam wajan cekung. Aduk kembali adonan menggunakan whisk sebelum menggoreng.\n
+        5.	Tuang satu sendok sayur kedalam minyak yg sudah panas. Siram siram atasnya. Tusuk dengan lidi tengahnya. Apabila sudah tidak ada adonan yg keluar tandanya cucur sudah matang. Angkat dan tiriskan.\n
+        6.	NOTE: jangan memakai minyak terlalu banyak, secukupnya saja. Minyak harus sudah panas tapi mememakai api kecil ahar kue cucur bisa berserat bagus dan tipis.\n
+    </string>
+    <string name="langkah_dodol">
+        1.	Rebus gula merah dengan 100ml air hingga mendidih dan gula mencair lalu saring dan sisihkan.\n
+        2.	Campur tepung ketan,garam,gula pasir dalam wajan kemudian masukkan santan lalu aduk dengan wisk hingga rata dan tidak bergerendil.\n
+        3.	Nyalakan kompor masak dan aduk-aduk dengan sendok kayu lalu masukkan gula merah cair,aduk sampai rata dan hingga adonan kalis dan berat.\n
+        4.	Kecilkan api aduk terus hingga adonan licin dan berat, masak kurang lebih 1 jam (lama memasak tergantung banyak sedikitnya adonan),setelah itu matikan api dan tuang jenang dalam loyang yang sudah diolesi sedikit minyak goreng dan ratakan lalu biarkan sampai dingin.\n
+        5.	Setelah jenang dingin baru dipotong-potong. (kalau saya jika hari ini bikin jenang besoknya baru saya potong).\n
+    </string>
+    <string name="getuk">
+        550 gr singkong tanpa kulit, di potong-potong cuci bersih\n
+        10 sdm gula palm\n
+        3 sdm margarin\n
+        Secukupnya kelapa muda parut, kukus dengan sedikit garam
+    </string>
+    <string name="langkah_getuk">
+        1.	Kukus singkong hingga matang lalu angkat dan buang sumbunya\n
+        2.	Siapkan chopper lalu masukkan semua bahan lalu proses hingga halus\n
+        3.	Bentuk sesuai selera\n
+        4.	Sajikan dengan taburan kelapa parut yang sudah dikukus
+    </string>
+    <string name="putu_mayang">
+        150 gram tepung beras\n
+        50 gram tepung tapioka\n
+        1/2 sdt garam\n
+        300 ml santan\n
+        pewarna hijau dan merah\n
+        Bahan syrup gula merah:\n
+        150 gram gula merah\n
+        50 gram gula pasir\n
+        500 ml santan encer\n
+        1/2 sdt garam\n
+        1 lembar daun pandan
+    </string>
+    <string name="langkah_putu">
+        1.	Putu mayang: Masukan tepung beras garam, santan masak diatas api kecil sambil di aduk sampai bergumpal, angkat\n
+        2.	Pindahkan ke mangkuk tambahkan tepung tapioka sedikit-sedikit sambil di uleni sampai rata\n
+        3.	Bagi adonan mejadi 3 beri pewarna hijau dan merah satu bagian lagi tidak diberi warna\n
+        4.	Cetak adonan ke atas daun pisang yang sudah di olesi minyak\n
+        5.	Kukus di atas api sedang selama 15 menit sampai matang\n
+        6.	Bahan syrup gula: masukan semua bahan ke dalam panci masak sampai mendidih lalu saring\n
+    </string>
+    <string name="rendang">
+        - 1/2 kg daging sapi tanpa lemak\n
+        - 1/4 kg santan kental atau 300 ml\n
+        - 10 buah bawang merah\n
+        - 5 buah bawang putih\n
+        - 1/2 ons cabai merah keriting\n
+        - 1 cm jahe\n
+        - 1 cm lengkuas memarkan\n
+        - 1 sdt ketumbar\n
+        - 2 batang serai geprek terlebih dahulu\n
+        - 2 biji asam kandis\n
+        - 2 lembar daun jeruk\n
+        - 3 lembar daun salam\n
+        - 1 lembar daun kunyit\n
+        - Garam secukupnya\n
+        - Gula pasir secukupny\n
+    </string>
+    <string name="langkah_rendang">
+        1.  Haluskan terlebih dahulu bawang merah dan putih, cabai, jahe, lengkuas, serta ketumbar.\n
+        2. Mulai ungkep potongan daging sapi dengan bumbu yang dihaluskan, tunggu sampai mengeluarkan air dan daging ungkepan kering.\n
+        3. Masukkan santan kental, serai, asam kandis, daun jeruk, daun salam, garam dan gula pasir. Kemudian aduk hingga merata, jangan lupa daun kunyit tapi sobek-sobek terlebih dahulu.\n
+        4. Tunggu sampai santan mendidih dan sedikit mengeluarkan minyak, kemudian kecilkan api.\n
+        5. Usahakan terus diaduk-aduk agar rendang tidak menempel pada wajan, tunggu sampai rendang berubah warna dan agak mengering.\n
+        6. Angkat rendang dan masakan siap untuk disajikan dengan nasi hangat.\n
+    </string>
+    <string name="soto_betawi">
+        500 gram Daging sapi\n
+        100-200 ml santan kental kemasan\n
+        200 ml Susu ultra plain\n
+        Bumbu halus:\n
+        6 siung Bawang merah besar\n
+        3 siung Bawang putih besar\n
+        1 ruas Jahe\n
+        1 butir Kemiri\n
+        1 sdt Ketumbar bubuk\n
+        1 sdt Lada bubuk\n
+        1/2 sdt Jintan bubuk\n
+        Bumbu tambahan:\n
+        1 batang Serai\n
+        3 buah Cengkeh\n
+        3 lmbar Daun salam\n
+        2 lmbar Daun jeruk\n
+        5 cm kayu manis\n
+        1-3 sachet Masako sapi\n
+        Bumbu penyerta saat masakan dihidangkan:\n
+        secukupnya Garam\n
+        Tomat\n
+        Bawang goreng\n
+        Daun bawang\n
+        Emping\n
+        Cabe rawit\n
+        Kecap manis\n
+        Jeruk nipis\n
+    </string>
+    <string name="langkah_soto">
+        1.	Rebus daging sapi hingga empuk. Jika dengan panci presto 20-30 menit, jika dengan panci biasa 2-3 jam. Setelah daging empuk, potong dadu-dadu kecil, sisihkan. Air rebusan daging panaskan kembali (kurang lebih 500-1000 ml, silahkan atur sesuai selera).\n
+        2.	Tumis "bumbu halus" dengan minyak secukupnya, kemudian tambahkan "bumbu tambahan", tumis hingga harum kurang lebih 5 menit. Setelah itu, masukkan ke air rebusan.\n
+        3.	Tambahkan susu dan santan kental. Jika takut terlalu kental, bisa ditambahkan sedikit-sedikit, atur kekentalan dan rasa (manis, asam, asin) sesuai selera. Ingat, api kecil ya..\n
+    </string>
+    <string name="sate_marangi">
+        - ayam fillet, potong-potong\n
+        - kecap\n
+        - margarin\n
+        Bumbu halus:\n
+        - bawang putih\n
+        - bawang merah\n
+        - ketumbar\n
+        - garam\n
+        - gula merah\n
+        - merica\n
+    </string>
+    <string name="langkah_sate">
+        - Lumuri daging ayam dengan bumbu, istirahatkan, agar bumbu meresap.
+        - Siapkan tusukan sate, tusuk-tusuk daging ayam.\n
+        - Panggang memakai teflon, atau panggang diatas bara api sampai matang.\n
+        - Tambahkan margarin dan kecap saat ayam dipanggang.\n
+        - Sajikan bersama sambal kecap dan lontong.\n
+    </string>
+    <string name="bahn">
+        1 buah Baguette, potong, belah dua\n
+        1 buah Wortel, iris memanjang atau iris korek api\n
+        1 buah Timun, iris memanjang atau iris korek api\n
+        secukupnya Daun ketumbar\n
+        secukupnya Mayones\n
+        1 buah Jeruk nipis\n
+        1 buah Cabai rawit merah, iris halus\n
+        secukupnya Garam\n
+        secukupnya Gula\n
+        secukupnya Daging panggang (option)\n
+    </string>
+    <string name="langkah_bahn">
+        1.	Panggang sebentar Baguette yang telah dipotong dan dibelah dua\n
+        2.	Olesi dengan mayones secukupnya\n
+        3.	Aduk rata 2 sdm perasan jeruk nipis, cabai rawit merah iris, garam dan gula secukupnya\n
+        4.	Atur di dalam Baguette\n
+        5.	Tambahkan daun ketumbar. Jika ada dan suka bisa ditambahkan daging/ayam panggang yang telah dimarinasi dengan minyak wijen, saus tiram, merica hitam.
+    </string>
+    <string name="canai">
+        300 gram Tepung terigu\n
+        1 butir Telur ayam\n
+        50 ml Minyak goreng\n
+        150 ml Air hangat\n
+        1 sdm Susu bubuk\n
+        1 sdt Gula halus (opsional)\n
+        1/2 sdt Garam\n
+        secukupnya Margarin\n
+        secukupnya Minyak goreng (untuk merendam adonan)
+    </string>
+    <string name="langkah_canai">
+        1. Cuci bersih daging ayam dan cabai hijau. Cincang kasar daging ayam dan potong potong cabai hijau\n
+        2. Panaskan 2 sdm minyak goreng dan tumis bumbu halus sebentar lalu masukkan ayam cincang dan tumis kembali.\n
+        3. Saat ayam sudah setengah matang, masukkan cabe hijau, tambahkan sedikit saja air ke dalam tumisan agar tidak terlalu kering. Lalu tumis sampai kadar air berkurang.\n
+        4. Siapkan kulit pangsit dan olesi dengan air terlebih dahulu di seluruh bagian kulit pangsit agar mudah menempel. Dan bentuk segitiga.\n
+        5. Lakukan hal yang sama hingga adonan habis, setelah itu goreng sambosa dengan api kecil dan siap dinikmati bersama keluarga.
+    </string>
+    <string name="bulgogi">
+        500 gram daging beef sukiyaki\n
+        1 buah wortel (potong korek api)1 buah bawang bombay (iris tipis)\n
+        3 batang daun bawang\n
+        Bumbu Marinasi\n
+        4 siung bawang putih (cincang halus)\n
+        1/2 buah bawang bombay (cincang halus)\n
+        1 buah apel/pear\n
+        8 sdm kecap asin\n
+        2 sdm gula\n
+        2 sdm madu\n
+        2 sdm minyak wijen\n
+        1 sdm saus lada hitam\n
+        1 sdt kaldu jamur\n
+        Secukupnya wijen sangrai
+    </string>
+    <string name="langkah_bulgogi">
+        1. Cuci bersih beef, marinasi di chiller 2 jam\n
+        2. Masak beef sampai berubah warna. Habis itu tambahin wortel sm bawang bombay\n
+        3. Masak sampe mateng, terus tambah daun bawang. Setelah daun bawang layu, tambah wijen.
+    </string>
+    <string name="falafel">
+        300 gram chickpeas/garbanzo/kacang Arab\n
+        1 genggaman penuh daun parsley yg sudah di cincang kasar\n
+        1/2 genggam daun ketumbar/Cilantro/Coriander leaves cincang\n
+        50 gram bawang merah\n
+        7 siung bawang putih\n
+        1 sdm ketumbar bubuk\n
+        1 sdm jintan bubuk\n
+        1/2 sdt merica bubuk\n
+        1 sdt garam halus atau sesuaikan selera\n
+        1/2 sdt cabe bubuk\n
+        Secukupnya penyedap\n
+        1/2 sdt baking soda\n
+        1 sdt baking powder\n
+        2 sdm wijen sangrai dulu sebentar saja (skip jika tdk ada)\n
+        Secukupnya minyak untuk menggoreng\n
+    </string>
+    <string name="langkah_falafel">
+        1. Cuci bersih chickpeas, lalu rendam hingga 18 jam, agar dia menggembang dan empuk, lalu tiriskan hingga benar benar tiris dari air. Biasanya saya biarkan disaringan biar airnya hilang sekitar 30 Menit.\n
+        2. Masukkan kedalam food processor/chopper, masukkan juga daun parsley cincang, daun ketumbar cincang, bawang merah, bawang putih, jintan bubuk, ketumbar bubuk, merica bubuk, cabe bubuk, garam dan penyedap, lalu blender hingga halus TANPA AIR ya.\n
+        3. Pindahkan ke mangkuk, aduk aduk hingga rata lagi, gunakan tangan sesekali saat mengaduk agak diremas pelan, lalu tekan padatkan pelan, tutup rapat mangkuk, masukkan ke dalam kulkas selama MINIMAL 2 jam agar adonan set, kalo saya biasanya bikin adonan ini siang, dan saya goreng nya buat makan malam jadi lebih set lagi.\n
+        4. Setelah 2 jam atau waktu akan digoreng, masukkan wijen sangrainya, lalu aduk lagi hingga rata, kemudian masukkan baking powder dan baking soda, aduk lagi hingga benar benar tercampur rata, ambil 1 sendok teh adonan, bentuk bulat pipih dengan ketebalan 1/2 inchi atau sesuai selera, tapi disini kebanyakan bentuk falafel nya memang bulat pipih ya.\n
+        5. Panaskan minyak dalam api sedang tunggu hingga sekiranya minyak mulai keluar gelembung kecil, oh iya minyak goreng agak banyak ya soalnya harus goreng secara deep dry, agar teksturnya perfect. Goreng falafel dengan api sedang sekitar 3 sampai 5 menitan hingga kecoklatan dan crispy, angkat tiriskan agar minyak turun.
+    </string>
+    <string name="hummus">
+        2 cup chickpeas rebus (bisa pakai yg kalengan instan)\n
+        1/2 cup Tahini (resep sudah ada ya,silahkan klik lampiran\n
+        3 sdm yogurt plain\n
+        2 siung bawang putih haluskan\n
+        2 sdm air matang (jangan lebih ya)\n
+        1/2 sdt jintan bubuk\n
+        1 sdm perasaan jeruk nipis/lemon atau takaran sesuai selera\n
+        1/2 sdt garam halus atau sesuai selera\n
+        2 sdm olive oil/minyak zaitun\n\n
+        Bahan Topping =\n
+        Secukupnya olive oil /minyak zaitun
+    </string>
+    <string name="langkah_hummus">
+        1. Dalam processor masukkan chickpeas/bawang putih halus,air matang,dan minyak zaitun,blender hingga halus.\n
+        2. Masukkan Tahini, yogurt,jintan bubuk, perasaan jeruk nipis, dan garam, blender lagi hingga smooth,test rasa,jika kurang asin atau asam,tambahkan lagi garam dan perasaan jeruk nipis lalu blender lagi beberapa detik tercampur agar rata.\n
+        3. Tuang dalam mangkuk atau piring saji,buat lubang ditengahnya dan siram dengan minyak zaitun, hiasi dengan beberapa butir kacang Arab rebus dan jika suka hiasi dgn sumac bubuk/paprika bubuk dan daun mint untuk membuat warnanya lebih menyala.
+    </string>
+    <string name="samosa">
+        500 gram daging ayam fillet\n
+        8 cabai hijau besar(sesuai selera)\n
+        Secukupnya air\n
+        Secukupnya kulit pangsit\n
+        Gula garam menyesuaikan\n
+        Minyak untuk menggoreng\n
+        Bumbu halus\n
+        4 siung bawang putih\n
+        8 siung bawang merah\n
+        2 ruas jari kunyi\n
+        1 sdt merica\n
+        2 sdt ketumbar\n
+        3 biji kemiri\n
+    </string>
+    <string name="langkah_samosa">
+        1. Cuci bersih daging ayam dan cabai hijau. Cincang kasar daging ayam dan potong potong cabai hijau\n
+        2. Panaskan 2 sdm minyak goreng dan tumis bumbu halus sebentar lalu masukkan ayam cincang dan tumis kembali.\n
+        3. Saat ayam sudah setengah matang, masukkan cabe hijau, tambahkan sedikit saja air ke dalam tumisan agar tidak terlalu kering. Lalu tumis sampai kadar air berkurang.\n
+        4. Siapkan kulit pangsit dan olesi dengan air terlebih dahulu di seluruh bagian kulit pangsit agar mudah menempel. Dan bentuk segitiga.\n
+        5. Lakukan hal yang sama hingga adonan habis, setelah itu goreng sambosa dengan api kecil dan siap dinikmati bersama keluarga.
+    </string>
+    <string name="steak">
+        Bahan utama:\n
+        - 180 gr daging has dalam\n
+        Bahan marinasi:\n
+        - 1 sdt garam\n
+        - 1 sdt lada hitam tumbuk kasar\n
+        - 1 sdt parsley, thyme, atau rosemary\n
+        - 1/4 sdt baking soda\n
+        Garlic butter:\n
+        - 20 gram unsalted butter\n
+        - 2 siung bawang putih, geprek dan cincang\n
+        - 1 sdt parsley\n
+        Garlic sauce:\n
+        - 3 siung bawang putih, parut\n
+        - 5 cabai rawit merah, giling kasar\n
+        - 1 helai daun bawang, giling kasar\n
+        - 2 sdm kecap ikan\n
+        - 2 sdm air jeruk nipis\n
+        - 2 sdm Olive oil\n
+        Bahan pelengkap:\n
+        - Asparagus, rebus 1 menit\n
+        - 150 gr kentang, rebus setengah matang\n
+    </string>
+    <string name="langkah_steak">
+        1. Balur daging dengan bahan marinasi. Diamkan 15 menit.\n
+        2. Panaskan teflon. Tambahkan light olive oil. Masukkan daging. Setelah 2 menit, balik. Tambahkan garlic butter di atas daging.\n
+        3. Tambahkan kentang di pinggir daging. Bumbui kentang dengan garam, lada hitam tumbuk, dan garlic butter. Masukkan juga asparagus, bumbui dengan garlic butter. Masak daging selama 6 menit, sambil dibalik setiap 2 menit sekali apabila ingin well done.\n
+        4. Angkat asparagus duluan, cukup sampai layu saja tapi masih krispi.\n
+        5. Berikutnya angkat kentang jika sudah agak kecokelatan.\n
+        6. Terakhir siram-siram daging dengan minyak di teflon sampai dirasa well done.\n
+        7. Angkat lalu tambahkan sisa garlic butter dan istirahatkan 10 menit.\n
+        8. Sajikan steak dengan bahan pelengkap dan garlic sauce.\n
+    </string>
+    <string name="lasagna">
+        Kulit Lasagna\n
+        Keju\n
+        1,5 kg Daging sapi cincang\n
+        3 kaleng besar tomat yang dipotong dadu\n
+        250 ml Kaldu ayam\n
+        500 ml Air\n
+        Garam dan lada disesuaikan dengan selera\n
+        1 Bawang bombay, dipotong kotak\n
+        2 Batang seledri, potong dadu\n
+        2 Buah wortel besar yang dipotong dadu\n
+        170 gr Pasta tomat (kalengan)\n
+        5 lembar Daun basil\n
+        Daun parsley secukupnya\n
+        200 ml Susu cair\n
+        2-3 sdm Keju parmesan\n
+        2 sdm Mentega\n
+        2 sdm Tepung terigu\n
+    </string>
+    <string name="langkah_lasagna">
+        a. Membuat saus tomat:\n
+        Masukan dan tumis bawang bombay, batang seledri dan wortel hingga berair/berkeringat ke dalam panci dengan api kecil. Tumis dengan waktu 5-7 menit. Jaga agar masakan anda tidak sampai gosong.\n
+        Besarkan api, dan masukan daging cincang, pasta tomat, tomat yang telah dipotong dadu, kaldu ayam, air dan daun basil. Masak selama 30-40 menit, hingga mendidih dan adonan terlihat mengental. Jangan lupa untuk mengaduk adonan setiap 10 menit.\n
+        Tambahkan irisan daun parsley sesuai selera, menjelang akhir.\n
+        Tambahkan garam dan lada. Sesuaikan dengan selera anda masing-masing\n
+        Jika rasa asam dari tomat pada adonan sudah stabil, masukan kembali sedikit garam dalam adonan.\n
+        b. Langkah membuat saus bechamel lasagna:\n
+        Lelehkan mentega yang sudah anda siapkan kemudian masukkan tepung terigu. Aduk rata.\n
+        Campurkan susu cair secara perlahan dan bertahap ke dalam adonan\n
+        Perhatikan adonan, jika terlalu kental maka cobalah tambahkan susu cair secukupnya, namun jika sebaliknya maka tambahkan tepung terigu secukupnya. Jika adonan dirasa sudah konsisten kemudian masukkan 2-3 sdm keju parmesan lalu aduk rata.\n
+        c. cara membuat lasagna sederhana:\n
+        Rebus kulit lasagna selama kurang lebih 3 menit. Perhatian untuk tidak menumpuk lebaran kulit pasta tersebut terlalu banyak karena dikahwatirkan akan menempel dan sulit dipisahkan. Angkat dan tiriskan.\n
+        Ambil loyang kemudian masukan dan lumuri lapisan paling bawah dengan saus tomat lasagna yang telah dibuat. Setelah itu tutupi dengan kulit lasagna, kemudian lapisi kembali dengan saus tomat lasagna dan saus bechamel yang sebelumnya telah dipersiapkan. Lakukan langkah tersebut hingga layer-layer selanjutnya. (minimun dibuat dengan 4 layer)\n
+        Setelah selesai menata layernya kemudian tutup rapat loyang dengan alumunium foil dan panggang di panas 180 derajat selama 20 menit.\n
+        Angkat dan sajikan.\n
+    </string>
+    <string name="ratatouille">
+        3 buah tomat (ukuran besar)\n
+        1 buah bawang bombay (ukuran besar)\n
+        4 siung bawang putih\n
+        1 buah paprika (merah, kuning, atau hijau; sesuai selera)\n
+        Garam secukupnya\n
+        1 buah terong (ukuran sedang)\n
+        2 buah kentang\n
+        Basil secukupnya (penambah rasa)\n
+        1 buah Zucchini\n
+        Thyme secukupnya (penambah rasa)\n
+        1 sdm olive oil\n
+    </string>
+    <string name="langkah_ratatouille">
+        1. Kupas bawang putih dan bawang bombay dan cuci semua bahan hingga bersih.\n
+        2. Cincang bawang putih dan bawang bombay. Lanjutkan dengan memotong bahan-bahan lainnya.\n
+        3. Lalu tumis bawang putih dan bawang bombay dengan olive oil  hingga beraroma harum. Masukkan tomat, kentang dan paprika, berikan sedikit garam. Aduk sebentar, tutup dan masak sebentar hingga mendidih sekitar 20 menit.\n
+        4. Setelah mendidih, tambahkan zucchini dan terong. Aduk kembali, masak hingga zucchini dan terong empuk sekitar 10 menit.\n
+        5. Matikan api. Taburkan basil dan thyme.\n
+        6. Sajikan.\n
+    </string>
+    <string name="macaroni">
+        - 100 gr macaroni\n
+        - 1-2 wortel, parut\n
+        - 2 sachet kornet\n
+        - 200 ml susu cair\n
+        - 1/2 siung bawang bombay ukuran sedang, cincang\n
+        - 3 siung bawang putih, cincang\n
+        - Garam secukupnya\n
+        - Gula secukupnya\n
+        - 3 gr kaldu jamur\n
+        - 35 gr keju cheddar, parut\n
+        - 1 butir telur\n
+        - 1 sdm margarin\n
+        - Keju melt\n
+        - Keju cheddar secukupnya\n
+    </string>
+    <string name="langkah_macaroni">
+        1. Rebus air sampai mendidih dan masukkan macaroni. Pastikan macaroni tenggelam agar tidak lengket. Rebus selama 15 menit. Lalu tiriskan.\n
+        2. Panaskan margarin di atas wajan lalu masukkan bawang putih dan bawang bombay sampai harum.\n
+        3. Masukkan wortel, tunggu sampai layu lalu masukkan kornet, aduk sampai rata.\n
+        4. Masukkan susu cair, macaroni, keju parut lalu aduk. Lalu masukkan kaldu jamur, garam, dan gula. Aduk lalu tes rasa. Tunggu mendidih dan matikan api.\n
+        5. Kocok telur, beri garam secukupnya. Dan masukkan ke adonan. Campur sampai rata.\n
+        6. Masukkan ke loyang yang sudah diberi margarin. Taburi keju melt dan keju cheddar di bagian atas.\n
+        7. Panaskan oven 10 menit 200°C api atas bawah. Masukkan loyang dan oven 20-30 menit atau sampai matang.\n
+    </string>
+    <string name="cgb">
+        100 gram fillet dada ayam\n
+        50 gram keju mozzarella\n
+        1 lembar daging sapi asap (smoked beef)\n
+        1 sendok teh margarin\n
+        1/2 sendok teh bawang putih bubuk/bawang putih halus\n
+        1 sendok makan tepung terigu serbaguna\n
+        100 gram tepung roti/panko\n
+        1 butir telur ayam\n
+        garam secukupnya\n
+        merica bubuk secukupnya\n
+        minyak goreng secukupnya\n
+    </string>
+    <string name="langkah_cgb">
+        1. Lebarkan fillet dada ayam dengan mengirisnya tanpa terputus. Setelah itu, lumuri dengan sedikit garam dan merica.\n
+        2. Pipihkan dada ayam dengan pemukul daging hingga fillet tipis. Jangan sampai sobek. Setelah itu, diamkan sekitar dua menit.\n
+        3. Oleskan campuran margarin dan bawang putih bubuk/bawang putih halus di permukaan fillet secara merata.\n
+        4. Letakkan smoked beef di atas ayam, kemudian tumpuk dengan irisan keju mozzarella.\n
+        5. Gulung daging ayam dengan rapi dan bungkus dengan plastic wrap atau aluminium foil. Diamkan di lemari es setidaknya selama 30 menit.\n
+        6. Buka gulungan daging dan balur dengan tepung terigu, kemudian celupkan ke dalam kocokan telur. Setelah itu, lanjutkan dengan balutan tepung roti.\n
+        7. Panaskan minyak goreng cukup banyak. Pastikan cukup untuk membuat gulungan daging terbenam. Goreng gulungan daging dengan api sedang sampai berwarna cokelat keemasan.\n
+    </string>
+    <string name="pizza">
+        375 ml air hangat suam kuku\n
+        1/4 sdt gula pasir\n
+        2 sdt ragi instan  750 gram tepung terigu serbaguna\n
+        1 sdt garam\n
+        60 ml minyak zaitun\n
+        Saus tomat secukupnya\n
+        Sosis sesuai selera \n
+        Mozarella sesuai selera\n
+        Bawang bombai sesuai selera\n
+    </string>
+    <string name="langkah_pizza">
+        1. Campur gula dan ragi dengan air hangat, aduk rata. Diamkan sekitar lima menit hingga berbuih.\n
+        2. Campur tepung dan garam dalam satu wadah ukuran besar.\n
+        3. Campur larutan ragi dengan minyak, aduk rata. Buat lubang di tengah campuran tepung, lalu masukkan larutan ragi dan minyak tersebut. Campur semua bahan hingga rata.\n
+        4. Beri sedikit minyak pada meja yang digunakan untuk menguleni. Uleni adonan dengan tangan selama 10-15 menit hingga kalis dan elastis.\n
+        5. Dalam wadah lain yang besar, olesi dengan minyak zaitun. Masukkan adonan kulit pizza yang sudah kalis. Tutup dengan cling film atau plastic wrap.  Biarkan di tempat hangat selama 40-45 menit hingga adonan mengembang.\n
+        6. Panaskan oven dengan suhu 200 derajat celcius. Kempiskan adonan, lalu tipiskan dengan rolling pin. Lebarkan hingga ke ujung loyang pizza. \n
+        7. Beri saus dan topping sesuai selera. Panggang pizza di api bawah sekitar 20-25 menit sampai kulit renyah dan kuning kecoklatan.\n
+        8. Besarkan oven sekitar lima derajat celcius pada lima menit terakhir pemanggangan. Matikan oven lalu sajikan pizza selagi panas.\n
+    </string>
+    <string name="burger">
+        - 300 gr daging giling sapi\n
+        - 50 gr tepung roti\n
+        - 1 butir telur\n
+        - 1 buah bawang bombay, potong kecil\n
+        - Daun seledri, iris tipis\n
+        - 1/2 sdt bawang putih bubuk\n
+        - 1/2 sdt pala bubuk\n
+        - Lada secukupnya\n
+        - Garam secukupnya\n
+        - Minyak zaitun/minyak sayur untuk memanaskan beef\n
+        - 250 gr tepung terigu protein tinggi\n
+        - 40 gr gula pasir\n
+        - 2 sdm susu bubuk full cream\n
+        - 5 gr ragi instan\n
+        - 1 butir telur\n
+        - 100-120 ml susu cair\n
+        - 50 gr butter/margarin\n
+        - Sejumput garam\n
+        - Susu uht\n
+        - Wijen secukupnya\n
+    </string>
+    <string name="langkah_burger">
+        Cara membuat Patty:\n
+        1. Dalam wadah campurkan semua bahan, aduk rata\n
+        2. Ambil sekitar 55 gr adonan beef atau sesuai selera, kemudian bulatkan\n
+        3. Setelah itu bisa langsung dipanaskan di teflon atau bisa dibekukan di dalam freezer\n
+        Cara membuat Roti Burger:\n
+        1. Campurkan tepung, susu bubuk, ragi, gula, telur dan susu cair uleni setengah kalis\n
+        2. Tambahkan butter dan garam uleni lagi hingga kalis elastis\n
+        3. Bulatkan adonan kemudian istirahatkan sekitar 45 menit atau sampai mengembang 2 kali lipat\n
+        4. Setelah mengembang, kempiskan adonan kemudian timbang adonan masing-masing sekitar 55 gr, bulatkan dan tata di loyang. Diamkan lagi sekitar 30 menit atau sampai mengembang\n
+        5. Oles atas roti dengan susu UHT kemudian taburi dengan wijen\n
+        6. Panggang di oven dengan suhu 170-180 derajat Celcius atau sesuaikan dengan oven masing-masing sampai matang kecokelatan\n
+        Penyelesaian:\n
+        1. Ambil satu roti burger belah menjadi dua, panaskan diatas teflon dengan sedikit margarin\n
+        2. Tambahkan irisan daun selada, patty beef, keju, timun, tomat, saus, mayonaise\n
+        3. Siap disajikan.\n
+    </string>
+    <string name="escampur">
+        50 gram cincau hitam\n
+        50 gram roti tawar\n
+        50 gram alpukat\n
+        50 gram nata de coco\n
+        50 gram kolang-kaling\n
+        50 gr setup nanas\n
+        50 gr buah semangka\n
+        50 ml kental manis putih\n
+        100 ml air panas\n
+        3 sdm gula pasir\n
+        sirup cocopandan secukupnya\n
+        es batu secukupnya\n
+        air dingin secukupnya\n
+        </string>
+    <string name="langkah_escampur">
+        1. Potong dadu bahan-bahan yang bisa dipotong. Campurkan semua bahan ke dalam mangkuk.\n
+        2. Untuk membuat setup nanas, bisa cek resepnya di sini.\n
+        3. Larutkan gula ke dalam air panas, tuang ke dalam mangkuk isian.\n
+        4. Tuang cocopandan dan kental manis secukupnya. Masukkan es batu dan air secukupnya. Aduk rata.\n
+    </string>
+    <string name="esdoger">
+        1 liter santan\n
+        150 gram gula pasir\n
+        100 gram pacar cina\n
+        ½ sdt garam\n
+        2 sdm perisa es doger\n
+        4 sdm kental manis\n
+        1 bungkus tape singkong\n
+        1 bungkus tape ketan\n
+        1 buah alpukat\n
+        2 helai roti tawar\n
+    </string>
+    <string name="langkah_esdoger">
+        1. Campurkan santan, gula dan garam ke dalam panci dan masak dengan api sedang hingga mendidih.\n
+        2. Pastikan masakan selalu diaduk agar santan tidak menggumpal atau pecah.\n
+        3. Tuangkan perisa es doger ke dalam adonan secukupnya.\n
+        4. Jika sudah matang, pindahkan ke wadah dan diamkan hingga dingin.\n
+        5. Kemudian masukkan ke dalam freezer selama dua jam.\n
+        6. Jika santan sudah keras sempurna, keluarkan dari freezer dan serut ke dalam wadah kosong.\n
+        7. Roti tawar dipotong dadu atau potong ke beberapa bagian kecil.\n
+        8. Tambahkan tape singkong, tape ketan, potongan roti tawar, kental manis, pacar cina, alpukat ke dalam wadah.\n
+        9. Es doger segar siap untuk disajikan.\n
+    </string>
+    <string name="alpukat">
+        2 buah Alpukat mentega\n
+        1 sachet Susu kental manis cokelat\n
+        1 sachet Susu kental manis putih\n
+        2 sdm Gula pasir\n
+        Air kelapa secukupnya\n
+        Es batu secukupnya\n
+        Topping (Keju, meses, kacang)\n
+    </string>
+    <string name="langkah_alpukat">
+        1. Cuci alpukat dan kemudian keruk semua dagingya serta masukkan ke dalam wadah kemudian hancurkan kasar\n
+        2. Setelah itu masukkan campuran gula pasir 2 sdm, susu kental manis putih, aduk hingga merata\n
+        3. Sementara itu haluskan buah mangga dan campurkan sedikit gula pasir atau ssuu kental manis putih\n
+        4. Setelah itu masukkan beberapa bagian alpukat dalam gelas campurkan dengan es batu yang telah dihaluskan dan tambahkan susu kental manis cokelat dan tutup kembali dengan alpukat yang telah dihaluskan tadi. Tambahkan alpukat kocok dengan smoothies mangga\n
+        5. Tambahkan topping sesuai selera\n
+        6. Sajikan alpukat kocok di keluarga\n
+    </string>
+    <string name="cendol">
+        - 150 gram tepung beras\n
+        - 60 gr tepung hunkwe\n
+        - 60 gr sagu\n
+        - 3 sdm endapan sari pandan suji\n
+        - 1 ltr air\n
+        - 1 sdt teh garam\n
+        - 1 sdm air kapur sirih\n
+        - Pewarna hijau secukupnya\n
+        - 500 gr gula merah\n
+        - 300 ml air\n
+        - 3 lembar daun pandan, ikat simpul\n
+        - 8 sdm @fibercreme\n
+        - 300 ml air\n
+        - 1/2 sdm garam\n
+        - 2 lembar daun pandan\n
+        - Es batu secukupnya\n
+    </string>
+    <string name="langkah_cendol">
+        Cara membuat cendol:\n
+        1. Masak semua bahan dengan api kecil, aduk terus sampai mengental lalu angkat.\n
+        2. Siapkan cetakan cendol dan letakkan baskom yang sudah berisi air matang dan es batu di bawah cetakan.\n
+        3. Masukkan adonan ke dalam cetakan cendol, lalu tekan.\n
+        4. Lakukan sampai adonan habis, rendam sebentar, kemudian tiriskan.\n
+        Cara membuat kuah gula merah:\n
+        1. Masak semua bahan di api kecil sampai mendidih dan mengental.\n
+        2. Matikan api, angkat dan saring.\n
+        Cara membuat kuah fiber:\n
+        1. Masak dan aduk semua bahan di api kecil sampai mendidih.\n
+        2. Matikan api.\n
+        Penyajian:\n
+        1. Tuang kuah gula merah di gelas, lalu masukkan cendol dan kuah fibercreme.\n
+        2. Terakhir, masukkan es batu.\n
+        3. Sajikan selagi dingin.\n
+    </string>
+    <string name="pisangijo">
+        Pisang Ijo:\n
+        200 g tepung beras\n
+        1 sdm tepung kanji\n
+        50 g gula pasir\n
+        2 sdm air daun suji pandan\n
+        400 ml santan encer\n
+        6 buah pisang kepok/tanduk/raja sereh, kupas\n
+        daun pisang/plastik tebal\n
+        Bubur:\n
+        100 g tepung beras\n
+        750 ml santan segar yang sedang kentalnya\n
+        1 lembar daun pandan\n
+        1/2 sdt garam\n
+        Pelengkap:\n
+        Santan yang sudah direbus\n
+        Sirop Merah Pisang Ambon\n
+        Es Batu\n
+    </string>
+    <string name="langkah_pisang">
+        1. Pisang Ijo: Taruh dalam wadah, tepung beras, tepung kanji, gula, air daun suji dan santan. Aduk hingga larut dan licin.\n
+        2. Masak di atas api kecil sambil aduk-aduk hingga kental dan matang.\n
+        3. Angkat dan dinginkan.\n
+        4. Ambil 2-3 sdm adonan, ratakan di atas selembar daun pisang atau plastik tebal.\n
+        5. Beri sepotong pisang di tengahnya. Balut seluruh pisang hingga bentuknya mirip pisang.\n
+        6. Taruh di atas kukusan yang sudah dialasi daun, Kukus selama 30 menit hingga matang.\n
+        7. Angkat dan dinginkan.\n
+        8. Bubur: Taruh tepung beras, santan, akstrak pandan dan garam dalam panci, aduk hingga larut.\n
+        9. Masak di atas api sedang, aduk-aduk hingga kental dan matang.\n
+        10. Angkat dan dinginkan.\n
+        11. Penyajian : Potong-potong pisang ijo melintang, taruh di mangkuk saji.\n
+        12. Beri bubur, santan, sirop merah dan es batu. Sajikan dingin.\n
+    </string>
+    <string name="selendangmayang">
+        Bahan:\n
+        1 sachet tepung hun kwe 95gr\n
+        50 gr tepung beras\n
+        1 liter air\n
+        2 sdm gula pasir\n
+        1/2 sdt garam\n
+        1/2 sdt vanilli powder\n
+        Secukupnya pewarna makanan warna merah dan hijau\n
+        Bahan Saus Gula Merah:\n
+        200 gr gula merah\n
+        100 ml gula pasir\n
+        200 ml air\n
+        2 lembar daun pandan\n
+        1/4 sdt garam\n
+        Bahan Kuah Santan:\n
+        2 sachet santan instan 60 ml\n
+        500 ml air\n
+        1 lembar daun pandan\n
+        1/2 sdt garam\n
+    </string>
+    <string name="langkah_selendangmayang">
+        1. Pertama, buat puding selendang mayang lebih dahulu. Campurkan 250 ml air dengan tepung sagu aren dan tepung beras.\n
+        2. Aduk hingga rata, lalu saring agar lembut. Sisihkan campuran tepung dan air.\n
+        3. Siapkan wajan, lalu didihkan sisa air, daun pandan, garam, dan gula pasir. Panaskan sambil diaduk hingga gula larut. Angkat larutan tersebut, lalu saring agar jernih.\n
+        4. Didihkan kembali campuran air dan daun pandan di atas api kecil. Masukkan tepung sagu aren, aduk cepat hingga tercampur rata. Didihkan.\n
+        5. Jika sudah mendidih, angkat dan tuang adonan ke dalam loyang datar dan ratakan. Kemudian teteskan pewarna merah secukupnya.\n
+        6. Ratakan dengan kuas hingga seluruh permukaan berwarna merah. Biarkan puding selendang mayang dingin dan mengeras.\n
+        7. Sambil menunggu puding mengeras, saatnya bikin kuah santan dan air gula. Campurkan semua bahan kuah santan lalu didihkan. Jika sudah mendidih, matikan api dan saring lalu sisihkan.\n
+        8. Lakukan hal yang sama dengan air gula. Didihkan gula merah, garam, dan air. Panaskan dan aduk larutan gula sampai gula merah mencair dan teraduk rata. Jika sudah mendidih, sisihkan.\n
+        9. Untuk penyajian, potong kotak kecil adonan yang sudah mengeras tadi. Tata dalam gelas saji, lalu siram dengan santan dan air gula sesuai selera.\n
+        10. Tambahkan es batu secukupnya. Es selendang mayang pun siap disajikan\n
+    </string>
+    <string name="escincau">
+        Cincau siap saji\n
+        Selasih\n
+        Gula pasir\n
+        Es batu\n
+    </string>
+    <string name="langkah_escincau">
+        1. Potong- potong bahan menjadi beberapa bagian kecil, masukan dalam wadah terpisah\n
+        2. Rendam selasih dengan air matang, tunggu hingga mengembang sempurna\n
+        3. Siapkan gelas saji, lalu masukan es batu serta bahan lainnya yang telah disiapkan sebelumnya.\n
+        4. Tambahkan gula sesuai selera, dan minuman segar untuk buka puasa telah siap dihidangkan\n
+    </string>
+    <string name="atas">Kami adalah Mahasiswa Broadband Multimedia Semester 5 yang membuat Aplikasi Android untuk memenuhi tugas Mata Kuliah Mobile Apps</string>
+</resources>

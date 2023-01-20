@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_nav"
+    app:startDestination="@id/discoverFragment">
+
+    <fragment
+        android:id="@+id/discoverFragment"
+        android:name="com.example.projekkel3_bismillahbangget.DiscoverFragment"
+        android:label="Discover"
+        tools:layout="@layout/fragment_discover" />
+    <fragment
+        android:id="@+id/favoriteFragment"
+        android:name="com.example.projekkel3_bismillahbangget.FavoriteFragment"
+        android:label="Favorite"
+        tools:layout="@layout/fragment_favorite" />
+    <fragment
+        android:id="@+id/myRecipesFragment"
+        android:name="com.example.projekkel3_bismillahbangget.MyRecipesFragment"
+        android:label="My Recipes"
+        tools:layout="@layout/fragment_my_recipes" />
+</navigation>

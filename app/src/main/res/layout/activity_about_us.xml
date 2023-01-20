@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/atas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:layout_marginBottom="20dp"
+        android:background="#FACF8E"
+        android:orientation="vertical">
+        <View
+            android:id="@+id/view"
+            android:layout_width="wrap_content"
+            android:layout_height="6dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="0dp"
+            android:background="#593809" />
+        <LinearLayout
+            android:id="@+id/nama"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_gravity="top"
+            android:layout_marginBottom="0dp"
+            android:background="#FFE5BE"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="134dp"
+                android:layout_height="match_parent">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="35dp"
+                    android:fontFamily="sans-serif"
+                    android:text="Kelompok 3"
+                    android:textAlignment="center"
+                    android:textColor="#000000"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="277dp"
+                android:layout_height="match_parent">
+                <TextView
+                    android:layout_width="270dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:fontFamily="sans-serif"
+                    android:text="@string/atas"
+                    android:textAlignment="center"
+                    android:textColor="#000000"
+                    android:textSize="15sp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="6dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="0dp"
+            android:background="#593809" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="38dp">
+
+            <TextView
+                android:layout_width="386dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="16dp"
+                android:gravity="center"
+                android:text="Our Team"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+        <View
+            android:layout_width="350dp"
+            android:layout_height="6dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="0dp"
+            android:background="#593809" />
+        <LinearLayout
+            android:id="@+id/orang1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"
+            android:background="#FFE5BE"
+            android:orientation="horizontal">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="130dp"
+                android:layout_marginLeft="16dp"
+                android:src="@drawable/nopa"
+                android:layout_height="130dp"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="20dp"
+                android:background="#FFE5BE"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="Nabilah Nova Durotulhikmah"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="2003421005"
+                    android:textSize="16sp" />
+                <TextView
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="nabilah.novadurotulhikmah.te20@mhsw.pnj.ac.id"
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+        </LinearLayout>
+        <View
+            android:id="@+id/view2"
+            android:layout_width="350dp"
+            android:layout_height="6dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="0dp"
+            android:background="#593809" />
+        <LinearLayout
+            android:id="@+id/orang2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"
+            android:background="#FFE5BE"
+            android:orientation="horizontal">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="130dp"
+                android:layout_marginLeft="16dp"
+                android:src="@drawable/nuril"
+                android:layout_height="130dp"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="20dp"
+                android:background="#FFE5BE"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="Nuril Khilyatil Jannah"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="2003421019"
+                    android:textSize="16sp" />
+                <TextView
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="nuril.khilyatiljannah.te20@mhsw.pnj.ac.id"
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+        <View
+            android:id="@+id/view3"
+            android:layout_width="350dp"
+            android:layout_height="6dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="0dp"
+            android:background="#593809" />
+        <LinearLayout
+            android:id="@+id/orang3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"
+            android:background="#FFE5BE"
+            android:orientation="horizontal">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="130dp"
+                android:layout_marginLeft="16dp"
+                android:src="@drawable/pimpi"
+                android:layout_height="130dp"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top"
+                android:layout_marginBottom="30dp"
+                android:layout_marginTop="20dp"
+                android:background="#FFE5BE"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="Pimpi Haifa Zahra"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="2003421034"
+                    android:textSize="16sp" />
+                <TextView
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="pimpi.haifazahra.te20@mhsw.pnj.ac.id"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+        <View
+            android:id="@+id/view4"
+            android:layout_width="350dp"
+            android:layout_height="6dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="0dp"
+            android:background="#593809"/>
+    </LinearLayout>
+</LinearLayout>

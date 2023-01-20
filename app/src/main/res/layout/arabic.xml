@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="3dp"
+    app:cardElevation="3dp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:id="@+id/imageArabic"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/titleArabic"
+            android:text="Title"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/brown"
+            android:layout_toRightOf="@id/imageArabic"
+            android:layout_toEndOf="@id/imageArabic"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/descArabic"
+            android:text="Desc"
+            android:textSize="11sp"
+            android:textColor="@color/brown"
+            android:layout_toRightOf="@id/imageArabic"
+            android:layout_toEndOf="@id/imageArabic"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_below="@id/titleArabic"
+            android:ellipsize="end"
+            android:maxLines="5"/>
+        <ToggleButton
+            android:id="@+id/favBtn"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_below="@id/descArabic"
+            android:layout_toRightOf="@id/imageArabic"
+            android:layout_toEndOf="@id/imageArabic"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:textOn=""
+            android:textOff=""
+            android:background="@drawable/toggle_selector"/>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

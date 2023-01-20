@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hubungi Kami"
+            android:textAlignment="textStart"
+            android:paddingTop="15sp"
+            android:paddingBottom="15sp"
+            android:paddingStart="8sp"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/yellow1"
+            android:drawableLeft="@drawable/ic_baseline_email_24"
+            android:drawablePadding="8sp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"/>
+        <Button
+            android:id="@+id/text2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Undang Teman"
+            android:textAlignment="textStart"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/yellow1"
+            android:drawableLeft="@drawable/ic_baseline_people_24"
+            android:paddingTop="15sp"
+            android:paddingBottom="15sp"
+            android:paddingStart="8sp"
+            android:drawablePadding="8sp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kebijakan Privasi"
+            android:textColor="@color/yellow1"
+            android:backgroundTint="@color/white"
+            android:textAlignment="textStart"
+            android:paddingTop="15sp"
+            android:paddingBottom="15sp"
+            android:paddingStart="8sp"
+            android:drawableLeft="@drawable/ic_baseline_lock_24"
+            android:drawablePadding="8sp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Preferensi Notifikasi"
+            android:textAlignment="textStart"
+            android:textColor="@color/yellow1"
+            android:backgroundTint="@color/white"
+            android:paddingTop="15sp"
+            android:paddingBottom="15sp"
+            android:paddingStart="8sp"
+            android:drawableLeft="@drawable/ic_baseline_notifications_24"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:drawablePadding="8sp" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ketentuan Pemakaian"
+            android:textColor="@color/yellow1"
+            android:textAlignment="textStart"
+            android:backgroundTint="@color/white"
+            android:paddingTop="15sp"
+            android:paddingBottom="15sp"
+            android:paddingStart="8sp"
+            android:drawableLeft="@drawable/ic_baseline_headset_24"
+            android:layout_marginEnd="10dp"
+            android:layout_marginStart="10dp"
+            android:drawablePadding="8sp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="8sp"
+            android:paddingTop="15sp"
+            android:paddingBottom="15sp"
+            android:text="Panduan Komunitas Foodies"
+            android:textAlignment="textStart"
+            android:textColor="@color/yellow1"
+            android:backgroundTint="@color/white"
+            android:drawableLeft="@drawable/ic_baseline_groups_24"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:drawablePadding="8sp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="8sp"
+            android:paddingBottom="15sp"
+            android:paddingTop="15sp"
+            android:text="Tentang Kita"
+            android:textColor="@color/yellow1"
+            android:textAlignment="textStart"
+            android:backgroundTint="@color/white"
+            android:drawableLeft="@drawable/ic_baseline_help_24"
+            android:drawablePadding="8sp"
+            android:id="@+id/aboutus"
+            android:layout_marginEnd="10dp"
+            android:layout_marginStart="10dp"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
